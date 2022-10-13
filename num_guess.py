@@ -4,7 +4,7 @@
 # This program is a integer guessing game.
 
 #ask user for chosen number
-print("Enter the integer for the player to guess:")
+print("Enter the integer for the player to guess.")
 chosen_int=int(input())
 #set initial tries to zero
 tries=0
